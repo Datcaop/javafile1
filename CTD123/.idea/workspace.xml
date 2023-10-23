@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7db9491f-ca28-4b66-8d04-1492a0f34b79" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javalearn/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javalearn/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javalearn/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javalearn/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javalearn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javalearn/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javalearn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javalearn/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/java-homeWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/src/main/java/org/example/DomesticFlight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/src/main/java/org/example/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/src/main/java/org/example/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-homeWork/src/main/java/org/example/OverseaFilght.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-onclass/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ShVH5F53wSQAvaeCPfo8Wcgem5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/caoth/IdeaProjects/LibraryProject"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7db9491f-ca28-4b66-8d04-1492a0f34b79" name="Changes" comment="" />
+      <created>1689598709809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689598709809</updated>
+    </task>
+    <servers />
+  </component>
+</project>

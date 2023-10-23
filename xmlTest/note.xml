@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!--<!DOCTYPE book [-->
+<!--        <!ELEMENT book (note)>-->
+<!--        <!ELEMENT note (to,from,heading,body)>-->
+<!--        <!ELEMENT to (#PCDATA)>-->
+<!--        <!ELEMENT from (#PCDATA)>-->
+<!--        <!ELEMENT heading (#PCDATA)>-->
+<!--        <!ELEMENT body (#PCDATA)>-->
+<!--        <!ENTITY school "fpt aptech">-->
+<!--        ]>-->
+
+
+    <note
+        xmlns = "https://www.facebook.com/"
+        xmlns:xsi = "https://www.w3schools.com/xml/schema_howto.asp"
+        xsi:schemaLocation = "https://www.google.com/ note.xsd">
+        <to>Tove</to>
+        <from>Jani</from>
+        <heading>Reminder</heading>
+        <body>Don't forget me this weekend</body>
+
+    </note>

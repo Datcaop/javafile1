@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schools xmlns="https://www.w3schools.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://www.w3schools.com/xml schools.xsd">
+    <school>
+        <student>
+            <name>nguyen van a</name>
+            <age>18</age>
+        </student>
+        <student>
+            <name>nguyen van b</name>
+            <age>20</age>
+        </student>
+        <student>
+            <name>nguyen van c</name>
+            <age>21</age>
+        </student>
+    </school>
+
+
+
+</schools>

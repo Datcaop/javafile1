@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<store>
+    <product>
+        <name>Adidas Shoes</name>
+        <sku>ABC1</sku>
+        <color>Black</color>
+
+        <categories>
+            <category>
+                <name>Shoes</name>
+                <parent>Appearance</parent>
+            </category>
+        </categories>
+    </product>
+</store>
